@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Event 1",
+    "date": "7/12/2020 12:30 PM",
+    "details": "Event 1 sample details."
+  },
+  {
+    "id": 2,
+    "name": "Event 2",
+    "date": "7/13/2020 12:30 PM",
+    "details": "Event 2 smaple details."
+  },
+  {
+    "id": 3,
+    "name": "Event 3",
+    "date": "7/14/2020 12:30 PM",
+    "details": "Event 3 sample details."
+  }
+]
